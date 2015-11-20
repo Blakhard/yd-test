@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RequestGetter</string>
+    <string name="okButton">OK</string>
+    <string name="urlEdit">Input URL</string>
+</resources>
